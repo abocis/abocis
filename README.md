@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @abocis
-- 👀 I’m interested in ...Android application devoloper and ethical hacking
-- 🌱 I’m currently learning ... klotin
+- 👀 I’m  ...java and Android application devoloper 
+- 🌱 I’m currently learning ... klotin, and java 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... aboucisse22@gmail.com
 
